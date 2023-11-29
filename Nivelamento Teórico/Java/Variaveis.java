@@ -1,6 +1,6 @@
 // Hello Word
 // @author João C. Prestes
-public class Fundamentos {
+public class Variaveis {
     public static void main(String[] args) {
         String nome;
         int idade = 18;
